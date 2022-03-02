@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\obj\Debug\Tugas 2 Pert4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\obj\Debug\Tugas_2_Pert4.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\obj\Debug\Tugas 2 Pert4.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\bin\Debug\Tugas 2 Pert4.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\bin\Debug\Tugas 2 Pert4.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\obj\Debug\Tugas 2 Pert4.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Tugas 2 Pert4\Tugas 2 Pert4\obj\Debug\Tugas 2 Pert4.pdb
